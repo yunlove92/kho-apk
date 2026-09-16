@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "name": "Phim4K",
+      "version": "1.0",
+      "url": "https://example.com/phim4k.apk"
+    },
+    {
+      "name": "THTV",
+      "version": "1.0",
+      "url": "https://example.com/thtv.apk"
+    },
+    {
+      "name": "XEMTV",
+      "version": "1.0",
+      "url": "https://example.com/xemtv.apk"
+    },
+    {
+      "name": "YouTube",
+      "version": "1.0",
+      "url": "https://example.com/youtube.apk"
+    }
+  ]
+}
