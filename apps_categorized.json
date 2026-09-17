@@ -1,0 +1,329 @@
+{
+  "apps": [
+    {
+      "name": "DVT TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1pdbE6vakcbwPVOoc_6sYj_SsLyJO9GEG",
+      "category": "Tivi"
+    },
+    {
+      "name": "cobalt.youtube.tv_ok",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1spd57gF0qExNXGkNok6NySIFe5mDDp62",
+      "category": "Tivi"
+    },
+    {
+      "name": "THtv",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1ETsPA8upI2BPHbBpLe_Ttc5gI0O_ZSAf",
+      "category": "Tivi"
+    },
+    {
+      "name": "iMedia TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1_IHuXXNUNwCWMX51ryypZKbb9hcXWZU8",
+      "category": "Tivi"
+    },
+    {
+      "name": "Đông Anh Store",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1wS87eHelnEcQUWd6KH4cZw15n_SK2Tk8",
+      "category": "Store"
+    },
+    {
+      "name": "DVTStore",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1Qg2lGLrp5Jc94GxlXydlmpp-d4xchcwd",
+      "category": "Store"
+    },
+    {
+      "name": "DVT Sports Live Hub",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1LXx86ligvcmc4Egje0HIp7YJ8AkzMQkV",
+      "category": "Bóng đá / Thể thao"
+    },
+    {
+      "name": "DVT Smart Karaoke 4K",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=17Dmq7osfFwcltCYeTJZpJb_ncynPhgmn",
+      "category": "Giải trí / Karaoke"
+    },
+    {
+      "name": "DL Store",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1RM7_b88397MK85oRk3Md6Ia_wLWMCL7l",
+      "category": "Store"
+    },
+    {
+      "name": "Developer Tools",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1T9Sf7QIcSdExXm2qrQ4nmH3wxZoV_Oyo",
+      "category": "Công cụ"
+    },
+    {
+      "name": "Cô Be Phim",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1dKzWsx4GoM3C2mDIgpWQTpIUdLl1g3ye",
+      "category": "Phim"
+    },
+    {
+      "name": "CloudStream",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1v-5_-M6WtttLxkXM9moXK88eAK8_rZwI",
+      "category": "Khác"
+    },
+    {
+      "name": "ClipBox",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=15hT99KkDb-O4-8RHhUpM_5IjRcDPAVfl",
+      "category": "Khác"
+    },
+    {
+      "name": "CineFlix",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1owGGvWtB_aq4H0lHN5qUNO3Vg5xr0ln2",
+      "category": "Phim"
+    },
+    {
+      "name": "Cinema 4K TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=14hcdBLW54-lgZHVUVUx5rDbA0h27A35Q",
+      "category": "Phim"
+    },
+    {
+      "name": "Cho Phim TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1gKBdVVU9SmqjFVbMw2fX_PuH0BUT5c0I",
+      "category": "Phim"
+    },
+    {
+      "name": "XemTV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1m3vJIpQDWwMY2d9vR7vXC7qyBvX4sFJF",
+      "category": "Tivi"
+    },
+    {
+      "name": "VinFlixTV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=15BvA-MYFMME0wV0oxAZRj6dhVT2BKgh1",
+      "category": "Phim"
+    },
+    {
+      "name": "Việt TiVi",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1AFQJjijOci9Rdf8I70usXEitOley7D3t",
+      "category": "Tivi"
+    },
+    {
+      "name": "VietPlay TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1RQR3ogGpdmGmGdLZaXQuEw0LSpWdPusK",
+      "category": "Tivi"
+    },
+    {
+      "name": "VietMITV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1147ApI8n1-1JosO9GMIS7__lxIimK7Dp",
+      "category": "Tivi"
+    },
+    {
+      "name": "vAppTV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1woSwKc3dKVwzNMS1KwX0784a1ME41fFA",
+      "category": "Tivi"
+    },
+    {
+      "name": "TVPlus",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1rqTg-1LomZTkl1z45jWqQsXIS26F-Q8X",
+      "category": "Tivi"
+    },
+    {
+      "name": "TV365",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1ycLRWmhc5EaDbao92ZxA1REzRaPVyYp_",
+      "category": "Tivi"
+    },
+    {
+      "name": "TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1WVrLH0Dy-cSzpUDupwAU1VCm8GI6304Y",
+      "category": "Tivi"
+    },
+    {
+      "name": "Truyền Hình",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1M1skZ_iI4j6b2gKlKjcEX2uA8SlHGYl_",
+      "category": "Tivi"
+    },
+    {
+      "name": "ToTube",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1RGvK7wWy2dEcoqlT9CL0Cx2Bu6fiF9AR",
+      "category": "Khác"
+    },
+    {
+      "name": "TiemGiaiTri",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1QawceMluLUBvkKqp-r3ZH-DFGBZxTZr8",
+      "category": "Khác"
+    },
+    {
+      "name": "Tạo Phím Ảo Pro",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1ulWPyTcjYLKX4AaBlnI1qb032Xoev8UD",
+      "category": "Công cụ"
+    },
+    {
+      "name": "Siêu Tầm Phim - ATV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1fhzjGG8JoCFjvbtLSuaM8p_9SKwaYmtB",
+      "category": "Phim"
+    },
+    {
+      "name": "Send Files To TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1gGHMyjQuUA__PjV36ThB-oY5TMsGZr02",
+      "category": "Tivi"
+    },
+    {
+      "name": "SaiGonPhim",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1o6vUCV4r8eHuaqaQ1m00OPx8pHhcyetO",
+      "category": "Phim"
+    },
+    {
+      "name": "Nét Căng",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1YxDEwQ-UP2gIeb80cllBoIgNw1T8mLHp",
+      "category": "Khác"
+    },
+    {
+      "name": "RBTV+",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1CkV-8l5Hwli1cqdlSUnCTx-EGcxaZujg",
+      "category": "Tivi"
+    },
+    {
+      "name": "Rạp Phim TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1OwnvzoCuRosaJ0eexf4j6siXQ-Katmxt",
+      "category": "Phim"
+    },
+    {
+      "name": "Projectivy Launcher",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1JzSQCxvySY1MWdmVfbbiALhSN0xaSsmc",
+      "category": "Launcher"
+    },
+    {
+      "name": "Phim4K",
+      "version": "2.6.8",
+      "url": "https://docs.google.com/uc?export=download&id=1kugBXmVGZg5CAiiGWwrCFdLZBeQTk0a2",
+      "category": "Phim"
+    },
+    {
+      "name": "Only TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=17BAPDiVPMpoVNEValW58fE7oHNJSB-7L",
+      "category": "Tivi"
+    },
+    {
+      "name": "NVC Movie",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1kVrRLsCvwIGaLbKsWeQx8qwoWJUGXvwO",
+      "category": "Phim"
+    },
+    {
+      "name": "LocalSend",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1s4H2wIM0oPBLSAYGSFL-BMwSCIn6Iu2a",
+      "category": "Công cụ"
+    },
+    {
+      "name": "LaunchTV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1kugR5ArbHKF_FEVBeE2iXBTcvQICfy77",
+      "category": "Tivi"
+    },
+    {
+      "name": "LapTinhTV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1Urwvmx5hMhPctoNl4a-zTKF3Pt_RrTHo",
+      "category": "Tivi"
+    },
+    {
+      "name": "iMedia TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1jkw3MmdShIlmqAG1espNV1tUSHORq70A",
+      "category": "Tivi"
+    },
+    {
+      "name": "HS TIVI",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1Gzf521yFzLmQlT9RKcOuhKzkueG2i23R",
+      "category": "Tivi"
+    },
+    {
+      "name": "Get Out",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=10UizB6TGrNgweOGq_qJ88fwKNMYjdnjJ",
+      "category": "Khác"
+    },
+    {
+      "name": "Ferrari Downloader",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1YhmDI0CcwYoCLPsyAOuACdYyQPzr3gG-",
+      "category": "Công cụ"
+    },
+    {
+      "name": "Đông Anh TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1-FEdPe78UKffBJ3larmhg_6MbcdI8LxP",
+      "category": "Tivi"
+    },
+    {
+      "name": "DVTPhim",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1wErxdrKIiiiMivNlgM6yV2KzxhiJ01E2",
+      "category": "Phim"
+    },
+    {
+      "name": "DVT TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1pdbE6vakcbwPVOoc_6sYj_SsLyJO9GEG",
+      "category": "Tivi"
+    },
+    {
+      "name": "Downloader",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1zw1vWLl6SArWy_HZueT1XIudepAUpw5f",
+      "category": "Công cụ"
+    },
+    {
+      "name": "DL Tivi",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1KGtCUC29uF_i_ODqz70xJwLlp8zgLeRa",
+      "category": "Tivi"
+    }
+  ],
+  "categories": [
+    "Tất cả",
+    "Phim",
+    "Bóng đá / Thể thao",
+    "Tivi",
+    "Launcher",
+    "Store",
+    "Giải trí / Karaoke",
+    "Công cụ",
+    "Khác"
+  ],
+  "search": {
+    "enabled": true,
+    "fields": [
+      "name",
+      "category"
+    ],
+    "case_sensitive": false
+  }
+}
