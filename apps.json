@@ -1,24 +1,249 @@
 {
   "apps": [
     {
+      "name": "DVT TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1pdbE6vakcbwPVOoc_6sYj_SsLyJO9GEG"
+    },
+    {
+      "name": "cobalt.youtube.tv_ok",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1spd57gF0qExNXGkNok6NySIFe5mDDp62"
+    },
+    {
+      "name": "iMedia TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1_IHuXXNUNwCWMX51ryypZKbb9hcXWZU8"
+    },
+    {
+      "name": "Đông Anh Store",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1wS87eHelnEcQUWd6KH4cZw15n_SK2Tk8"
+    },
+    {
+      "name": "DVTStore",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1Qg2lGLrp5Jc94GxlXydlmpp-d4xchcwd"
+    },
+    {
+      "name": "DVT Sports Live Hub",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1LXx86ligvcmc4Egje0HIp7YJ8AkzMQkV"
+    },
+    {
+      "name": "DVT Smart Karaoke 4K",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=17Dmq7osfFwcltCYeTJZpJb_ncynPhgmn"
+    },
+    {
+      "name": "DL Store",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1RM7_b88397MK85oRk3Md6Ia_wLWMCL7l"
+    },
+    {
+      "name": "Developer Tools",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1T9Sf7QIcSdExXm2qrQ4nmH3wxZoV_Oyo"
+    },
+    {
+      "name": "Cô Be Phim",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1dKzWsx4GoM3C2mDIgpWQTpIUdLl1g3ye"
+    },
+    {
+      "name": "CloudStream",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1v-5_-M6WtttLxkXM9moXK88eAK8_rZwI"
+    },
+    {
+      "name": "ClipBox",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=15hT99KkDb-O4-8RHhUpM_5IjRcDPAVfl"
+    },
+    {
+      "name": "CineFlix",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1owGGvWtB_aq4H0lHN5qUNO3Vg5xr0ln2"
+    },
+    {
+      "name": "Cinema 4K TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=14hcdBLW54-lgZHVUVUx5rDbA0h27A35Q"
+    },
+    {
+      "name": "Cho Phim TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1ocDvZw07cSQcLuDVNLkDDAERv7G1UbTp"
+    },
+    {
+      "name": "XemTV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1m3vJIpQDWwMY2d9vR7vXC7qyBvX4sFJF"
+    },
+    {
+      "name": "VinFlixTV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=15BvA-MYFMME0wV0oxAZRj6dhVT2BKgh1"
+    },
+    {
+      "name": "Việt TiVi",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1AFQJjijOci9Rdf8I70usXEitOley7D3t"
+    },
+    {
+      "name": "VietPlay TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1RQR3ogGpdmGmGdLZaXQuEw0LSpWdPusK"
+    },
+    {
+      "name": "VietMITV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1147ApI8n1-1JosO9GMIS7__lxIimK7Dp"
+    },
+    {
+      "name": "vAppTV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1woSwKc3dKVwzNMS1KwX0784a1ME41fFA"
+    },
+    {
+      "name": "TVPlus",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1rqTg-1LomZTkl1z45jWqQsXIS26F-Q8X"
+    },
+    {
+      "name": "TV365",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1ycLRWmhc5EaDbao92ZxA1REzRaPVyYp_"
+    },
+    {
+      "name": "TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1WVrLH0Dy-cSzpUDupwAU1VCm8GI6304Y"
+    },
+    {
+      "name": "Truyền Hình",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1M1skZ_iI4j6b2gKlKjcEX2uA8SlHGYl_"
+    },
+    {
+      "name": "ToTube",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1RGvK7wWy2dEcoqlT9CL0Cx2Bu6fiF9AR"
+    },
+    {
+      "name": "TiemGiaiTri",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1QawceMluLUBvkKqp-r3ZH-DFGBZxTZr8"
+    },
+    {
+      "name": "Tạo Phím Ảo Pro",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1ulWPyTcjYLKX4AaBlnI1qb032Xoev8UD"
+    },
+    {
+      "name": "Siêu Tầm Phim - ATV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1fhzjGG8JoCFjvbtLSuaM8p_9SKwaYmtB"
+    },
+    {
+      "name": "Send Files To TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1gGHMyjQuUA__PjV36ThB-oY5TMsGZr02"
+    },
+    {
+      "name": "SaiGonPhim",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1AQGOiSBUyzD0f03VmX-aDqA0dxmu0g4d"
+    },
+    {
+      "name": "RBTV+",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1CkV-8l5Hwli1cqdlSUnCTx-EGcxaZujg"
+    },
+    {
+      "name": "Rạp Phim TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1OwnvzoCuRosaJ0eexf4j6siXQ-Katmxt"
+    },
+    {
+      "name": "Projectivy Launcher",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1JzSQCxvySY1MWdmVfbbiALhSN0xaSsmc"
+    },
+    {
       "name": "Phim4K",
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/yunlove92/kho-apk/main/app-debug%20%281%29.apk?utm_source=chatgpt.com"
+      "url": "https://docs.google.com/uc?export=download&id=1UoE8HZwd44owPmfRW5UzjMSzVk3eVqbQ"
+    },
+    {
+      "name": "Only TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=17BAPDiVPMpoVNEValW58fE7oHNJSB-7L"
+    },
+    {
+      "name": "NVC Movie",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1ZRXIg8S1Q2ZzCUTIlq-8T2tDCups23TQ"
+    },
+    {
+      "name": "LocalSend",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1s4H2wIM0oPBLSAYGSFL-BMwSCIn6Iu2a"
+    },
+    {
+      "name": "LaunchTV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1kugR5ArbHKF_FEVBeE2iXBTcvQICfy77"
+    },
+    {
+      "name": "LapTinhTV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1Urwvmx5hMhPctoNl4a-zTKF3Pt_RrTHo"
+    },
+    {
+      "name": "iMedia TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1jkw3MmdShIlmqAG1espNV1tUSHORq70A"
+    },
+    {
+      "name": "HS TIVI",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1Gzf521yFzLmQlT9RKcOuhKzkueG2i23R"
+    },
+    {
+      "name": "Get Out",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=10UizB6TGrNgweOGq_qJ88fwKNMYjdnjJ"
+    },
+    {
+      "name": "Ferrari Downloader",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1YhmDI0CcwYoCLPsyAOuACdYyQPzr3gG-"
+    },
+    {
+      "name": "Đông Anh TV",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1-FEdPe78UKffBJ3larmhg_6MbcdI8LxP"
+    },
+    {
+      "name": "DVTPhim",
+      "version": "1.0",
+      "url": "https://docs.google.com/uc?export=download&id=1wErxdrKIiiiMivNlgM6yV2KzxhiJ01E2"
     },
     {
       "name": "DVT TV",
       "version": "1.0",
-      "url": "https://drive.google.com/file/d/1pdbE6vakcbwPVOoc_6sYj_SsLyJO9GEG/view?usp=drivesdk"
+      "url": "https://docs.google.com/uc?export=download&id=1pdbE6vakcbwPVOoc_6sYj_SsLyJO9GEG"
     },
     {
-      "name": "DLTV",
+      "name": "Downloader",
       "version": "1.0",
-      "url": "https://drive.google.com/file/d/1KGtCUC29uF_i_ODqz70xJwLlp8zgLeRa/view?usp=drivesdk"
+      "url": "https://docs.google.com/uc?export=download&id=1zw1vWLl6SArWy_HZueT1XIudepAUpw5f"
     },
     {
-      "name": "YouTube",
+      "name": "DL Tivi",
       "version": "1.0",
-      "url": "https://example.com/youtube.apk"
+      "url": "https://docs.google.com/uc?export=download&id=1KGtCUC29uF_i_ODqz70xJwLlp8zgLeRa"
     }
   ]
 }
