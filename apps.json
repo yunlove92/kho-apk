@@ -16,19 +16,19 @@
       "name": "YouTube_TV_MOD",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1spd57gF0qExNXGkNok6NySIFe5mDDp62",
-      "category": "Youtube"
+      "category": "YouTube"
     },
     {
       "name": "Tizen_Logo_youtube",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1jsHlzJGc9JTlClRQyyo8TKupIZum-IDE",
-      "category": "Youtube"
+      "category": "YouTube"
     },
     {
       "name": "Tizen_Mod_Kiki",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1O3PBoGavcU5HzMO5E5knBKJStI8toe15",
-      "category": "Youtube"
+      "category": "YouTube"
     },
     {
       "name": "THtv",
@@ -238,7 +238,7 @@
       "name": "ToTube",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1RGvK7wWy2dEcoqlT9CL0Cx2Bu6fiF9AR",
-      "category": "Youtube"
+      "category": "YouTube"
     },
     {
       "name": "TiemGiaiTri",
@@ -399,6 +399,7 @@
   ],
   "categories": [
     "Tất cả",
+    "YouTube",
     "Phim",
     "Bóng đá / Thể thao",
     "Tivi",
