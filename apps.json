@@ -7,28 +7,22 @@
       "category": "Tivi"
     },
     {
-      "name": "TIVI MATE",
-      "version": "1.0",
-      "url": "https://docs.google.com/uc?export=download&id=14hcdBLW54-lgZHVUVUx5rDbA0h27A35Q",
-      "category": "Tivi"
-    },
-    {
       "name": "YouTube_TV_MOD",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1spd57gF0qExNXGkNok6NySIFe5mDDp62",
-      "category": "youtube"
+      "category": "Youtube"
     },
     {
       "name": "Tizen_Logo_youtube",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1jsHlzJGc9JTlClRQyyo8TKupIZum-IDE",
-      "category": "youtube"
+      "category": "Youtube"
     },
     {
       "name": "Tizen_Mod_Kiki",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1O3PBoGavcU5HzMO5E5knBKJStI8toe15",
-      "category": "youtube"
+      "category": "Youtube"
     },
     {
       "name": "THtv",
@@ -55,27 +49,9 @@
       "category": "Tivi"
     },
     {
-      "name": "Beecube Store",
-      "version": "1.0",
-      "url": "https://drive.google.com/uc?export=download&id=1gk7DZ7HoYTuwDFwxyIhddYQSbp7B7Apo",
-      "category": "Store"
-    },
-    {
-      "name": "Movie Legend Store",
-      "version": "1.0",
-      "url": "https://drive.google.com/uc?export=download&id=1xm3ATpYPoalQ0gEs5XVY8-rSxH7_DHlx",
-      "category": "Store"
-    },
-    {
       "name": "Đông Anh Store",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1wS87eHelnEcQUWd6KH4cZw15n_SK2Tk8",
-      "category": "Store"
-    },
-    {
-      "name": "MStore",
-      "version": "1.0",
-      "url": "https://drive.google.com/uc?export=download&id=1sToshYeusgmq70c-iN4HMnnn_iAr-b7n",
       "category": "Store"
     },
     {
@@ -88,12 +64,6 @@
       "name": "DVT Sports Live Hub",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1LXx86ligvcmc4Egje0HIp7YJ8AkzMQkV",
-      "category": "Bóng đá / Thể thao"
-    },
-    {
-      "name": "Sportx",
-      "version": "1.0",
-      "url": "https://drive.google.com/uc?export=download&id=1TG4XixiHSVdYgUlZoyWmsEe59Ekjhjb7",
       "category": "Bóng đá / Thể thao"
     },
     {
@@ -112,12 +82,6 @@
       "name": "Developer Tools",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1T9Sf7QIcSdExXm2qrQ4nmH3wxZoV_Oyo",
-      "category": "Công cụ"
-    },
-    {
-      "name": "X-PLORE",
-      "version": "1.0",
-      "url": "https://drive.google.com/uc?export=download&id=1sToshYeusgmq70c-iN4HMnnn_iAr-b7n",
       "category": "Công cụ"
     },
     {
@@ -145,27 +109,15 @@
       "category": "Phim"
     },
     {
-      "name": "Hiếuga CINEMA",
-      "version": "1.0",
-      "url": "https://drive.google.com/uc?export=download&id=1_iCthp8MLUR_cLMYaEB_s5qJX8yXf7R1",
-      "category": "Phim"
-    },
-    {
       "name": "CineFlix",
       "version": "1.0",
-      "url": "https://drive.google.com/uc?export=download&id=1gWY8Cz4gzOQo1vGZ89McppNm6F_z8vGo",
+      "url": "https://docs.google.com/uc?export=download&id=1owGGvWtB_aq4H0lHN5qUNO3Vg5xr0ln2",
       "category": "Phim"
     },
     {
       "name": "Cinema 4K TV",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=14hcdBLW54-lgZHVUVUx5rDbA0h27A35Q",
-      "category": "Phim"
-    },
-    {
-      "name": "HiPhim TV",
-      "version": "1.0",
-      "url": "https://drive.google.com/uc?export=download&id=1fo1A5vgnpsUzuUW64nVY4fSmPiMR5_1V",
       "category": "Phim"
     },
     {
@@ -238,7 +190,7 @@
       "name": "ToTube",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1RGvK7wWy2dEcoqlT9CL0Cx2Bu6fiF9AR",
-      "category": "youtube"
+      "category": "Youtube"
     },
     {
       "name": "TiemGiaiTri",
@@ -250,18 +202,6 @@
       "name": "Tạo Phím Ảo Pro",
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1ulWPyTcjYLKX4AaBlnI1qb032Xoev8UD",
-      "category": "Công cụ"
-    },
-    {
-      "name": "MiTV Installer",
-      "version": "1.0",
-      "url": "https://drive.google.com/uc?export=download&id=16vgExeqWWc6HHX4BeUs_znGK5SR2Ukto",
-      "category": "Công cụ"
-    },
-    {
-      "name": "Việt xiaomi ADB",
-      "version": "1.0",
-      "url": "https://drive.google.com/uc?export=download&id=1VKVPTD2idV_TOKvbgBPYJOs4tYLPRvDe",
       "category": "Công cụ"
     },
     {
