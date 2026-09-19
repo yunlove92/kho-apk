@@ -233,11 +233,16 @@
       "version": "1.0",
       "url": "https://docs.google.com/uc?export=download&id=1M1skZ_iI4j6b2gKlKjcEX2uA8SlHGYl_",
       "category": "Tivi"
+    },{
+      "name": "QTV_VIP",
+      "version": "1.0",
+      "url": "https://pub-fb13fe1daa2c4cf0acf3075c535924da.r2.dev/app/QTV3.9_Vip_pass123%40123.apk",
+      "category": "Tivi"
     },
     {
       "name": "ToTube",
       "version": "1.0",
-      "url": "https://docs.google.com/uc?export=download&id=1RGvK7wWy2dEcoqlT9CL0Cx2Bu6fiF9AR",
+      "url": "https://pub-fb13fe1daa2c4cf0acf3075c535924da.r2.dev/app/ToTube.apk",
       "category": "Youtube"
     },
     {
@@ -249,7 +254,25 @@
     {
       "name": "Tạo Phím Ảo Pro",
       "version": "1.0",
-      "url": "https://docs.google.com/uc?export=download&id=1ulWPyTcjYLKX4AaBlnI1qb032Xoev8UD",
+      "url": "https://pub-fb13fe1daa2c4cf0acf3075c535924da.r2.dev/app/tvQuickActions_Pro_v3.7.0_%28405%29.apk",
+      "category": "Công cụ"
+    },
+    {
+      "name": "Mapvoice",
+      "version": "1.0",
+      "url": "https://pub-fb13fe1daa2c4cf0acf3075c535924da.r2.dev/app/mapvoice.apk",
+      "category": "Công cụ"
+    },
+    {
+      "name": "Supervoice",
+      "version": "1.0",
+      "url": "https://pub-fb13fe1daa2c4cf0acf3075c535924da.r2.dev/app/supervoice-mod-ATV14.apk",
+      "category": "Công cụ"
+    },
+    {
+      "name": "ATV TOOL",
+      "version": "1.0",
+      "url": "https://pub-fb13fe1daa2c4cf0acf3075c535924da.r2.dev/app/atvTools_v1.3.0_42-mod.apk",
       "category": "Công cụ"
     },
     {
