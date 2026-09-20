@@ -1,0 +1,138 @@
+{
+  "apps": [
+    {
+      "name": "YouTube_TV_MOD",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/cobalt.youtube.tv_ok.apk",
+      "category": "Youtube"
+    },
+    {
+      "name": "Tizen_Logo_youtube",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/Tizen_logo_youtube.1.apk",
+      "category": "Youtube"
+    },
+    {
+      "name": "THtv",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/THtv.apk.1",
+      "category": "Tivi"
+    },
+    {
+      "name": "Sportx",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/SportzX.apk",
+      "category": "Bóng đá / Thể thao"
+    },
+    {
+      "name": "DL Store",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/DL.Store.apk",
+      "category": "Store"
+    },
+    {
+      "name": "Cho Phim TV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/Cho.Phim.TV.apk",
+      "category": "Phim"
+    },
+    {
+      "name": "XemTV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/XemTV.apk",
+      "category": "Tivi"
+    },
+    {
+      "name": "VietPlay TV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/VietPlay.TV.apk",
+      "category": "Tivi"
+    },
+    {
+      "name": "TVPlus",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/TVPlus.apk",
+      "category": "Tivi"
+    },
+    {
+      "name": "TV365",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/TV365.apk",
+      "category": "Tivi"
+    },
+    {
+      "name": "Truyền Hình",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/Truy.n.Hinh.apk",
+      "category": "Tivi"
+    },
+    {
+      "name": "Siêu Tầm Phim - ATV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/Sieu.T.m.Phim.-.ATV.apk",
+      "category": "Phim"
+    },
+    {
+      "name": "SaiGonPhim",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/SaiGonPhim.apk",
+      "category": "Phim"
+    },
+    {
+      "name": "Rạp Phim TV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/R.p.Phim.TV.apk",
+      "category": "Phim"
+    },
+    {
+      "name": "Phim4K",
+      "version": "2.6.8",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/Phim4K.apk",
+      "category": "Phim"
+    },
+    {
+      "name": "HS TIVI",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/HS.TIVI.apk",
+      "category": "Tivi"
+    },
+    {
+      "name": "Get Out",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/Get.Out.apk.1",
+      "category": "Bóng đá / Thể thao"
+    },
+    {
+      "name": "Đông Anh TV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/Dong.Anh.TV.apk",
+      "category": "Tivi"
+    },
+    {
+      "name": "DL Tivi",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/1.0/DL.Tivi.apk",
+      "category": "Tivi"
+    }
+  ],
+  "categories": [
+    "Tất cả",
+    "Youtube",
+    "Phim",
+    "Bóng đá / Thể thao",
+    "Tivi",
+    "Launcher",
+    "Store",
+    "Giải trí / Karaoke",
+    "Công cụ",
+    "Khác"
+  ],
+  "search": {
+    "enabled": true,
+    "fields": [
+      "name",
+      "category"
+    ],
+    "case_sensitive": false
+  }
+}
