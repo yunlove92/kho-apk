@@ -132,5 +132,25 @@
       "url": "https://github.com/yunlove92/kho-apk/releases/download/OTALVASHOP/TV_BASIC_v1.0_src_sign.apk",
       "category": "Tivi"
     }
-  ]
+  ],
+  "categories": [
+    "Tất cả",
+    "Youtube",
+    "Phim",
+    "Bóng đá / Thể thao",
+    "Tivi",
+    "Launcher",
+    "Store",
+    "Giải trí / Karaoke",
+    "Công cụ",
+    "Khác"
+  ],
+  "search": {
+    "enabled": true,
+    "fields": [
+      "name",
+      "category"
+    ],
+    "case_sensitive": false
+  }
 }
