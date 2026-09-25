@@ -49,6 +49,12 @@
       "category": "Bóng đá / Thể thao"
     },
     {
+      "name": "Getout 2end",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/Getout/GetOut.apk",
+      "category": "Bóng đá / Thể thao"
+    },
+    {
       "name": "DL Store",
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/OTALVASHOP/DL.Store.apk",
@@ -119,12 +125,6 @@
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/OTALVASHOP/HS.TIVI.apk",
       "category": "Tivi"
-    },
-    {
-      "name": "Get Out",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/Getout/GetOut.apk",
-      "category": "Bóng đá / Thể thao"
     },
     {
       "name": "Đông Anh TV",
