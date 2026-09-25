@@ -13,6 +13,18 @@
       "category": "Youtube"
     },
     {
+      "name": "Google.app.for.Android.TV_7.10.202",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/OTALVASHOP/Google.app.for.Android.TV_7.10.202.apk",
+      "category": "Công cụ"
+    },
+    {
+      "name": "Dowloader",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/OTALVASHOP/ferrari.apk",
+      "category": "Công cụ"
+    },
+    {
       "name": "THtv",
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/OTALVASHOP/THtv.apk",
@@ -22,6 +34,18 @@
       "name": "Sportx",
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/OTALVASHOP/SportzX.apk",
+      "category": "Bóng đá / Thể thao"
+    },
+    {
+      "name": "LapTinhTV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/OTALVASHOP/LapTinhTV.apk",
+      "category": "Bóng đá / Thể thao"
+    },
+    {
+      "name": "LauTV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/OTALVASHOP/LauTV.apk",
       "category": "Bóng đá / Thể thao"
     },
     {
