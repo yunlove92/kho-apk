@@ -1,1 +1,6 @@
-
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "downloadUrl": "https://github.com/yunlove92/kho-apk/releases/download/ota/ota.apk",
+  "changelog": "Cập nhật OTA"
+}
