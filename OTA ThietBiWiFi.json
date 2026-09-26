@@ -208,7 +208,13 @@
       "name": "File manager",
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/Filemanager/Filemanager.apk",
-      "category": "Tất cả"
+      "category": "Công cụ"
+    },
+    {
+      "name": "Cinema4k",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/Cinema4k/Cinima4k.apk",
+      "category": "Phim"
     }
   ],
   "categories": [
