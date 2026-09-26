@@ -161,6 +161,12 @@
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/NVCTIVI/NVC_Tivi_v1.1.1.apk",
       "category": "Tivi"
+    },
+    {
+      "name": "NVC PHIM",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/NVCPHIM/NVCPhim_v2.3.8-armeabi-v7a-release.apk",
+      "category": "Phim"
     }
   ],
   "categories": [
