@@ -167,6 +167,24 @@
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/NVCPHIM/NVCPhim_v2.3.8-armeabi-v7a-release.apk",
       "category": "Phim"
+    },
+    {
+      "name": "Leankeyboard",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/Leankeyboard/Leankeyboard.apkr&sv=2018-11-09&sr=b&spr=https&se=2026-09-26T11%3A57%3A43Z&rscd=attachment%3B+filename%3DLeankeyboard.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-26T10%3A57%3A21Z&ske=2026-09-26T11%3A57%3A43Z&sks=b&skv=2018-11-09&sig=wj%2F5MC8gtoaruZTAS3112%2FewYrvHJOFgc9Mmxq9AA4I%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDQyMDU0MSwibmJmIjoxNzkwNDIwMjQxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.YOdcjKpMHGfwhF7OKm8YJYknxJWb7IKqT8vMJbf4Gw0&response-content-disposition=attachment%3B%20filename%3DLeankeyboard.apk&response-content-type=application%2Fvnd.android.package-archive",
+      "category": "Công cụ"
+    },
+    {
+      "name": "TV360",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/Tv360fpt/tv360.apk",
+      "category": "Tivi"
+    },
+    {
+      "name": "Fptplay",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/Tv360fpt/fptplay.apk",
+      "category": "Tivi"
     }
   ],
   "categories": [
