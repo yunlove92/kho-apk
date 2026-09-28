@@ -221,6 +221,18 @@
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/TV%2B/TV+_v1.0_sign.apk",
       "category": "Tất cả"
+    },
+    {
+      "name": "VXMTV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/VXMTV/VXMTIVI.apk",
+      "category": "Tivi"
+    },
+    {
+      "name": "TiviViet",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/TiviViet/Tiviviet.apk",
+      "category": "Tất cả"
     }
   ],
   "categories": [
