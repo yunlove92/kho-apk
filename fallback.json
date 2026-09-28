@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "fallback_sources": [
+    {
+      "name": "Dự phòng 1",
+      "enabled": true,
+      "url": "https://tv.vietanhtv.top/sex/"
+    },
+    {
+      "name": "Dự phòng 2",
+      "enabled": true,
+      "url": "https://1.org.vn/vmttv"
+    },
+    {
+      "name": "Dự phòng 3",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/new.m3u"
+    }
+  ]
+}
