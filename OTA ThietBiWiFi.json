@@ -281,6 +281,36 @@
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/RBTV/RBTV+.apk",
       "category": "Bóng đá / Thể thao"
+    },
+    {
+      "name": "Backup projec laucher",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/Projectlaucher/BACKUPPROJECT.apk",
+      "category": "Launcher"
+    },
+    {
+      "name": "Project laucher",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/Projectlaucher/project.1.apk",
+      "category": "Launcher"
+    },
+    {
+      "name": "VTV GO",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/VTV/vtvgo.apk",
+      "category": "Tivi"
+    },
+    {
+      "name": "VTV PRIME",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/VTV/vtvprime.apk",
+      "category": "Tivi"
+    },
+    {
+      "name": "Coc coc browser",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/coccoc/coccoc.apk",
+      "category": "Công cụ"
     }
   ],
   "categories": [
