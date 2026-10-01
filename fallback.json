@@ -24,6 +24,11 @@
     {
       "name": "Dự phòng 5",
       "enabled": true,
+      "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv"
+    },
+    {
+      "name": "Dự phòng 6",
+      "enabled": true,
       "url": "https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/new.m3u"
     }
   ]
