@@ -19,6 +19,11 @@
     {
       "name": "Dự phòng 4",
       "enabled": true,
+      "url": "https://amymmo.com/tv/kenhtvvip.m3u"
+    },
+    {
+      "name": "Dự phòng 5",
+      "enabled": true,
       "url": "https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/new.m3u"
     }
   ]
