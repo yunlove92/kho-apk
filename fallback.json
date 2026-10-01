@@ -21,13 +21,18 @@
       "enabled": true,
       "url": "https://amymmo.com/tv/kenhtvvip.m3u"
     },
-    {
+     {
       "name": "Dự phòng 5",
+      "enabled": true,
+      "url": "https://github.com/hakison/xiaomi/releases/download/khoapp1/oktv.m3u"
+    },
+    {
+      "name": "Dự phòng 6",
       "enabled": true,
       "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv"
     },
     {
-      "name": "Dự phòng 6",
+      "name": "Dự phòng 7",
       "enabled": true,
       "url": "https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/new.m3u"
     }
