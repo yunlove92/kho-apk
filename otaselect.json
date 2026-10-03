@@ -1,0 +1,105 @@
+{
+  "presets": {
+    "MYTV": {
+      "apps": [
+        "Youtube_TV_MOD",
+        "Google.app.for.Android.TV_7.10.202",
+        "Dowloader",
+        "Thtv",
+        "Sportx",
+        "Getout 2end",
+        "DL store",
+        "Cho Phim TV",
+        "XemTV",
+        "VietPlay",
+        "TVPlus",
+        "Truyền Hình",
+        "Siêu Tầm Phim",
+        "Rạp Phim TV",
+        "Phim4K",
+        "DL Tivi",
+        "Sportstream",
+        "File manager",
+        "TV+",
+        "SaiGonPhim",
+        "Mytv"
+      ]
+    },
+    "TV360": {
+      "apps": [
+        "Youtube_TV_MOD",
+        "Google.app.for.Android.TV_7.10.202",
+        "Dowloader",
+        "Thtv",
+        "Sportx",
+        "Getout 2end",
+        "DL store",
+        "Cho Phim TV",
+        "XemTV",
+        "VietPlay",
+        "TVPlus",
+        "Truyền Hình",
+        "Siêu Tầm Phim",
+        "Rạp Phim TV",
+        "Phim4K",
+        "DL Tivi",
+        "Sportstream",
+        "File manager",
+        "TV+",
+        "SaiGonPhim",
+        "TV360"
+      ]
+    },
+    "FPT": {
+      "apps": [
+        "Youtube_TV_MOD",
+        "Google.app.for.Android.TV_7.10.202",
+        "Dowloader",
+        "Thtv",
+        "Sportx",
+        "Getout 2end",
+        "DL store",
+        "Cho Phim TV",
+        "XemTV",
+        "VietPlay",
+        "TVPlus",
+        "Truyền Hình",
+        "Siêu Tầm Phim",
+        "Rạp Phim TV",
+        "Phim4K",
+        "DL Tivi",
+        "Sportstream",
+        "File manager",
+        "TV+",
+        "SaiGonPhim",
+        "Fptplay"
+      ]
+    },
+    "MIBOX": {
+      "apps": [
+        "Youtube_TV_MOD",
+        "Google.app.for.Android.TV_7.10.202",
+        "Dowloader",
+        "Thtv",
+        "Sportx",
+        "Getout 2end",
+        "DL store",
+        "Cho Phim TV",
+        "XemTV",
+        "VietPlay",
+        "TVPlus",
+        "Truyền Hình",
+        "Siêu Tầm Phim",
+        "Rạp Phim TV",
+        "Phim4K",
+        "DL Tivi",
+        "Sportstream",
+        "File manager",
+        "TV+",
+        "SaiGonPhim",
+        "Netflix",
+        "Tizen_Logo_youtube"
+      ]
+    }
+  }
+}
