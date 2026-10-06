@@ -311,6 +311,12 @@
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/Netflix/Netflix_11.0.1+build+19770_APKPure.apk",
       "category": "Phim"
+    },
+    {
+      "name": "HinhNenTV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/HinhnenTV/HinhnenTV.apk",
+      "category": "Công cụ"
     }
   ],
   "categories": [
