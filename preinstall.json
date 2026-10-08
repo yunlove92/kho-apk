@@ -32,18 +32,6 @@
       "category": "Bóng đá / Thể thao"
     },
     {
-      "name": "LapTinhTV",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/OTALVASHOP/LapTinhTV.apk",
-      "category": "Bóng đá / Thể thao"
-    },
-    {
-      "name": "LauTV",
-      "version": "1.07",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/Lautv_v1.07/Lautv_v7.apk",
-      "category": "Bóng đá / Thể thao"
-    },
-    {
       "name": "Getout 2end",
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/Getout2end/getout.apk",
@@ -146,34 +134,10 @@
       "category": "Tivi"
     },
     {
-      "name": "NVC TIVI",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/NVCTIVI/NVC_Tivi_v1.1.1.apk",
-      "category": "Tivi"
-    },
-    {
-      "name": "NVC PHIM",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/NVCPHIM/NVCPhim_v2.3.8-armeabi-v7a-release.apk",
-      "category": "Phim"
-    },
-    {
       "name": "Sportstream",
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/Sportstream/SPORTSTREAM.apk",
       "category": "Bóng đá / Thể thao"
-    },
-    {
-      "name": "File manager",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/Filemanager/Filemanager.apk",
-      "category": "Công cụ"
-    },
-    {
-      "name": "Cinema4k",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/Cinema4k/Cinima4k.apk",
-      "category": "Phim"
     },
     {
       "name": "Onlytv",
@@ -188,82 +152,10 @@
       "category": "Tất cả"
     },
     {
-      "name": "VXMTV",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/VXMTV/VXMTIVI.apk",
-      "category": "Tivi"
-    },
-    {
       "name": "TiviViet",
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/TiviViet/Tiviviet.apk",
       "category": "Tất cả"
-    },
-    {
-      "name": "HongTV",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/HongTv/HongTV.apk",
-      "category": "Tất cả"
-    },
-    {
-      "name": "VMTTV",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/VMTTV/VMTTV.apk",
-      "category": "Tất cả"
-    },
-    {
-      "name": "LaucherTV",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/LaucherTV/LaucherTV.apk",
-      "category": "Tất cả"
-    },
-    {
-      "name": "HieugaCinnema",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/HieugaCinema/HieuGaCinema.apk",
-      "category": "Phim"
-    },
-    {
-      "name": "NVCMOVIE",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/NVCMOVIE356/NVCMOVIE.apk",
-      "category": "Phim"
-    },
-    {
-      "name": "HiphimTV",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/HIPHIMTV/hiphimTV.apk",
-      "category": "Phim"
-    },
-    {
-      "name": "VINFLIX",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/VinflixTV/VINFLIXTV.apk",
-      "category": "Phim"
-    },
-    {
-      "name": "RBTV+",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/RBTV/RBTV+.apk",
-      "category": "Bóng đá / Thể thao"
-    },
-    {
-      "name": "VTV GO",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/VTV/vtvgo.apk",
-      "category": "Tivi"
-    },
-    {
-      "name": "VTV PRIME",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/VTV/vtvprime.apk",
-      "category": "Tivi"
-    },
-    {
-      "name": "Coc coc browser",
-      "version": "1.0",
-      "url": "https://github.com/yunlove92/kho-apk/releases/download/coccoc/coccoc.apk",
-      "category": "Công cụ"
     }
   ],
   "categories": [
