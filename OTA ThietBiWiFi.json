@@ -317,6 +317,12 @@
       "version": "1.0",
       "url": "https://ximaotv.github.io/app/karaoke.apk",
       "category": "Tất cả"
+    },
+    {
+      "name": "TV CHANNELS",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/TVCHANNELS/TV.CHANNELS.apk",
+      "category": "Tất cả"
     }
   ],
   "categories": [
