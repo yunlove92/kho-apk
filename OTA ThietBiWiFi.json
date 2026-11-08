@@ -317,6 +317,18 @@
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/HinhnenTV/HinhnenTV.apk",
       "category": "Công cụ"
+    },
+    {
+      "name": "Rapnha",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/Rapnhamephim/rapnha.apk",
+      "category": "Phim"
+    },
+    {
+      "name": "Mephim",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/Rapnhamephim/mephimtv.apk",
+      "category": "Phim"
     }
   ],
   "categories": [
