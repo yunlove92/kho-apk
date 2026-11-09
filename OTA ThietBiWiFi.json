@@ -323,6 +323,12 @@
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/TVCHANNELS/TV.CHANNELS.apk",
       "category": "Tất cả"
+    },
+    {
+      "name": "Đảophimtv",
+      "version": "1.0",
+      "url": "https://cdn.daophim.shop/releases/smart-tv/1793676611081-890cfb09-daophim-tv-0.2.26.apk",
+      "category": "Phim"
     }
   ],
   "categories": [
