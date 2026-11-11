@@ -425,6 +425,18 @@
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/App/Hieugacine.apk",
       "category": "Phim"
+    },
+    {
+      "name": "Kênh Ứng Dụng",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/Sideloadlaucher/Kenh.ng.D.ng.MinhTamVN.apk",
+      "category": "Khác"
+    },
+    {
+      "name": "MT chanel",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/Sideloadlaucher/MT.Channel_v1.2.6.30.apk",
+      "category": "Khác"
     }
   ],
   "categories": [
