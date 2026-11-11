@@ -1,11 +1,6 @@
 {
   "devices": [
     {
-      "device_id": "8439fb295d00c049",
-      "license": "7896400098",
-      "status": "active"
-    },
-    {
       "device_id": "830db87e499c23fa",
       "license": "789640003",
       "status": "active"
