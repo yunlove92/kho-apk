@@ -377,6 +377,30 @@
       "version": "1.0",
       "url": "https://ximaotv.github.io/app/supervoice.apk",
       "category": "Công cụ"
+    },
+    {
+      "name": "Imou Camera",
+      "version": "1.0",
+      "url": "https://media.githubusercontent.com/media/ximaotv/khoapp/main/imou.apk",
+      "category": "Khác"
+    },
+    {
+      "name": "yosee camera",
+      "version": "1.0",
+      "url": "https://media.githubusercontent.com/media/ximaotv/khoapp/main/yoosee.apk",
+      "category": "Tất cả"
+    },
+    {
+      "name": "Ezivis Camera",
+      "version": "1.0",
+      "url": "https://media.githubusercontent.com/media/ximaotv/khoapp/main/ezviz.apk",
+      "category": "Khác"
+    },
+    {
+      "name": "Hik Camera",
+      "version": "1.0",
+      "url": "https://media.githubusercontent.com/media/ximaotv/khoapp/main/hik.apk",
+      "category": "Khác"
     }
   ],
   "categories": [
