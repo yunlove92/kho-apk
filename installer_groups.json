@@ -34,6 +34,7 @@
     "mytv": {
       "name": "MYTV",
       "apps": [
+        "YouTube_TV_MOD",
         "Google.app.for.Android.TV_7.10.202",
         "Dowloader",
         "THtv",
