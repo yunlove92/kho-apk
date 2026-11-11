@@ -359,6 +359,24 @@
       "version": "1.0",
       "url": "https://dvtshophcm.com/appstore/vAppTV.apk",
       "category": "Tivi"
+    },
+    {
+      "name": "KiKi",
+      "version": "1.0",
+      "url": "https://ximaotv.github.io/app/kiki.apk",
+      "category": "Khác"
+    },
+    {
+      "name": "Mapvoice",
+      "version": "1.0",
+      "url": "https://ximaotv.github.io/app/mapvoice.apk",
+      "category": "Công cụ"
+    },
+    {
+      "name": "SuperVoice",
+      "version": "1.0",
+      "url": "https://ximaotv.github.io/app/supervoice.apk",
+      "category": "Công cụ"
     }
   ],
   "categories": [
