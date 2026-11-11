@@ -329,6 +329,12 @@
       "version": "1.0",
       "url": "https://cdn.daophim.shop/releases/smart-tv/1793676611081-890cfb09-daophim-tv-0.2.26.apk",
       "category": "Phim"
+    },
+    {
+      "name": "Cine TV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/CINETV/CineTV_v1.0.90.90.apk",
+      "category": "Phim"
     }
   ],
   "categories": [
