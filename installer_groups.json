@@ -1,52 +1,57 @@
 {
-  "version": 1,
+  "version": 2,
+  "source": "https://raw.githubusercontent.com/yunlove92/kho-apk/main/OTA%20ThietBiWiFi.json",
+  "match": {
+    "field": "name",
+    "case_sensitive": false,
+    "trim": true
+  },
   "groups": {
     "main": {
       "name": "Bắt đầu",
       "apps": [
-        "Youtube_TV_MOD",
+        "YouTube_TV_MOD",
         "Google.app.for.Android.TV_7.10.202",
-        "Thtv",
+        "Dowloader",
+        "THtv",
         "Sportx",
         "Getout 2end",
-        "DL store",
+        "DL Store",
         "Cho Phim TV",
         "XemTV",
-        "VietPlay",
+        "VietPlay TV",
         "TVPlus",
         "Truyền Hình",
-        "Siêu Tầm Phim",
+        "Siêu Tầm Phim - ATV",
         "Rạp Phim TV",
         "Phim4K",
         "DL Tivi",
         "Sportstream",
         "File manager",
-        "TV+",
         "SaiGonPhim"
       ]
     },
     "mytv": {
       "name": "MYTV",
       "apps": [
-        "Youtube_TV_MOD",
+        "YouTube_TV_MOD",
         "Google.app.for.Android.TV_7.10.202",
         "Dowloader",
-        "Thtv",
+        "THtv",
         "Sportx",
         "Getout 2end",
-        "DL store",
+        "DL Store",
         "Cho Phim TV",
         "XemTV",
-        "VietPlay",
+        "VietPlay TV",
         "TVPlus",
         "Truyền Hình",
-        "Siêu Tầm Phim",
+        "Siêu Tầm Phim - ATV",
         "Rạp Phim TV",
         "Phim4K",
         "DL Tivi",
         "Sportstream",
         "File manager",
-        "TV+",
         "SaiGonPhim",
         "Mytv"
       ]
@@ -54,25 +59,24 @@
     "tv360": {
       "name": "TV360",
       "apps": [
-        "Youtube_TV_MOD",
+        "YouTube_TV_MOD",
         "Google.app.for.Android.TV_7.10.202",
         "Dowloader",
-        "Thtv",
+        "THtv",
         "Sportx",
         "Getout 2end",
-        "DL store",
+        "DL Store",
         "Cho Phim TV",
         "XemTV",
-        "VietPlay",
+        "VietPlay TV",
         "TVPlus",
         "Truyền Hình",
-        "Siêu Tầm Phim",
+        "Siêu Tầm Phim - ATV",
         "Rạp Phim TV",
         "Phim4K",
         "DL Tivi",
         "Sportstream",
         "File manager",
-        "TV+",
         "SaiGonPhim",
         "TV360"
       ]
@@ -80,25 +84,24 @@
     "fpt": {
       "name": "FPT",
       "apps": [
-        "Youtube_TV_MOD",
+        "YouTube_TV_MOD",
         "Google.app.for.Android.TV_7.10.202",
         "Dowloader",
-        "Thtv",
+        "THtv",
         "Sportx",
         "Getout 2end",
-        "DL store",
+        "DL Store",
         "Cho Phim TV",
         "XemTV",
-        "VietPlay",
+        "VietPlay TV",
         "TVPlus",
         "Truyền Hình",
-        "Siêu Tầm Phim",
+        "Siêu Tầm Phim - ATV",
         "Rạp Phim TV",
         "Phim4K",
         "DL Tivi",
         "Sportstream",
         "File manager",
-        "TV+",
         "SaiGonPhim",
         "Fptplay"
       ]
@@ -106,46 +109,28 @@
     "mibox": {
       "name": "MIBOX",
       "apps": [
-        "Youtube_TV_MOD",
+        "YouTube_TV_MOD",
         "Google.app.for.Android.TV_7.10.202",
         "Dowloader",
-        "Thtv",
+        "THtv",
         "Sportx",
         "Getout 2end",
-        "DL store",
+        "DL Store",
         "Cho Phim TV",
         "XemTV",
-        "VietPlay",
+        "VietPlay TV",
         "TVPlus",
         "Truyền Hình",
-        "Siêu Tầm Phim",
+        "Siêu Tầm Phim - ATV",
         "Rạp Phim TV",
         "Phim4K",
         "DL Tivi",
         "Sportstream",
         "File manager",
-        "TV+",
         "SaiGonPhim",
         "Netflix",
         "Tizen_Logo_youtube"
       ]
     }
-  },
-  "aliases": {
-    "Siêu Tầm Phim": [
-      "Siêu Tầm Phim - ATV"
-    ],
-    "VietPlay": [
-      "VietPlay TV"
-    ],
-    "DL store": [
-      "DL Store"
-    ],
-    "Youtube_TV_MOD": [
-      "YouTube_TV_MOD"
-    ],
-    "Thtv": [
-      "THtv"
-    ]
   }
 }
