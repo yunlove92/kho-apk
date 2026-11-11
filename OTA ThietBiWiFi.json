@@ -401,6 +401,30 @@
       "version": "1.0",
       "url": "https://media.githubusercontent.com/media/ximaotv/khoapp/main/hik.apk",
       "category": "Khác"
+    },
+    {
+      "name": "VINFLIX",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/App/VINFLIX.apk",
+      "category": "Phim"
+    },
+    {
+      "name": "Nét Căng TV",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/App/NETCANGTV.apk",
+      "category": "Phim"
+    },
+    {
+      "name": "Ki Ki",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/App/KIKI.apk",
+      "category": "Khác"
+    },
+    {
+      "name": "HieuGaCinema",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/App/Hieugacine.apk",
+      "category": "Phim"
     }
   ],
   "categories": [
