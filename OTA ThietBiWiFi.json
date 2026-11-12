@@ -443,6 +443,12 @@
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/Aniboxphim/AniBox_v2.9.6.3.apk",
       "category": "Phim"
+    },
+    {
+      "name": "Phim & HH3D",
+      "version": "1.0",
+      "url": "https://github.com/yunlove92/kho-apk/releases/download/PhimandHH3D/base.1.apk",
+      "category": "Phim"
     }
   ],
   "categories": [
