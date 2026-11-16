@@ -36,19 +36,15 @@
     "mytv": {
       "name": "MYTV",
       "apps": [
-        "Google.app.for.Android.TV_7.10.202",
         "Dowloader",
         "THtv",
         "Sportx",
         "Getout 2end",
         "DL Store",
         "Cho Phim TV",
-        "XemTV",
         "VietPlay TV",
         "TVPlus",
-        "Truyền Hình",
         "Rạp Phim TV",
-        "Phim4K",
         "DL Tivi",
         "Sportstream",
         "File manager",
@@ -57,7 +53,8 @@
         "YouTube_TV_MOD",
         "Đảophimtv",
         "Mephim",
-        "Rapnha"
+        "Rapnha",
+        "Google.app.for.Android.TV_7.10.202"
       ]
     },
     "tv360": {
