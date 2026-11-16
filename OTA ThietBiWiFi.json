@@ -461,6 +461,18 @@
       "version": "1.0",
       "url": "https://github.com/yunlove92/kho-apk/releases/download/LaucherpadTV/base.2.apk",
       "category": "Tất cả"
+    },
+    {
+      "name": "XIMAO FILM",
+      "version": "1.0",
+      "url": "https://ximaotv.github.io/app/ximaofilm.apk",
+      "category": "Phim"
+    },
+    {
+      "name": "CINEMA AI",
+      "version": "1.0",
+      "url": "https://ximaotv.github.io/app/cinema.apk",
+      "category": "Phim"
     }
   ],
   "categories": [
