@@ -473,6 +473,12 @@
       "version": "1.0",
       "url": "https://ximaotv.github.io/app/cinema.apk",
       "category": "Phim"
+    },
+    {
+      "name": "Cobephim",
+      "version": "1.0",
+      "url": "https://icdn.darkbytes.xyz/file/cm9waGltbQ/app/CoBeTV-1.0.22-android-tv-armeabi-v7a.apk",
+      "category": "Tất cả"
     }
   ],
   "categories": [
