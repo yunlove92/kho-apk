@@ -479,6 +479,12 @@
       "version": "1.0",
       "url": "https://icdn.darkbytes.xyz/file/cm9waGltbQ/app/CoBeTV-1.0.22-android-tv-armeabi-v7a.apk",
       "category": "Tất cả"
+    },
+    {
+      "name": "Laucher manager",
+      "version": "1.0",
+      "url": "https://pub-fb13fe1daa2c4cf0acf3075c535924da.r2.dev/app/Launcher-Manager-1.0.4.apk",
+      "category": "Launcher"
     }
   ],
   "categories": [
