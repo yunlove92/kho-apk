@@ -485,6 +485,12 @@
       "version": "1.0",
       "url": "https://media.githubusercontent.com/media/ximaotv/khoapp/main/smarttube.apk",
       "category": "Youtube"
+    },
+    {
+      "name": "KienPlayer",
+      "version": "1.0",
+      "url": "https://kienplayer.vercel.app/downloads/Kienplayer-TV-1.1.19-6312bf19fecb.apk",
+      "category": "Tất cả"
     }
   ],
   "categories": [
